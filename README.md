@@ -29,6 +29,6 @@ and leading a team as a project manager, including leading daily stand ups.
 ## Aspirations
 My end goal is to work for a Triple A company and meet many amazing and talented people in the industry, as well as to push my name out there and work on big games that many people will enjoy playing.
 
-My goals right now is to do my best in this final college and project and progress onwards to University where I will hone my skills and become industry ready, and get my Bachelors degree.
+My goals right now is to do my best in this final college project and progress onwards to University where I will hone my skills and become industry ready, and get my Bachelors degree.
 
 An optional goal I would want to consider doing is getting my masters degree in game development!
